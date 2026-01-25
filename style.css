@@ -193,6 +193,10 @@
     background: linear-gradient(90deg, rgb(0, 145, 248) 0%, rgb(138, 43, 226) 70%, rgb(215, 85, 233) 100%);
 }
 
+.call-to-action {
+    border: 1px solid #e3e3e3;
+}
+
 .dark-mode {
     --wp--preset--color--dark-gray: #f7f7f7;
 	--wp--preset--color--light-gray: #262626;

@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Prespa SaaS serves as a child theme of Prespa, inheriting all the features of Prespa. It is specifically designed for SaaS (Software as a Service) companies, providing a modern and professional look to showcase their products and services effectively. With its clean and responsive design, Prespa SaaS ensures that your website looks great on all devices, from desktops to mobile phones. The theme includes pre-designed block patterns tailored for SaaS businesses, making it easy to create engaging and informative pages. Whether you're looking to highlight features, pricing plans, or customer testimonials, Prespa SaaS has got you covered.
+Prespa SaaS serves as a child theme of Prespa, inheriting all the features of Prespa. It is specifically designed for SaaS (Software as a Service) companies and startups, providing a modern and professional look to effectively showcase products and services. With its clean and responsive design, Prespa SaaS ensures that your website looks great on all devices, from desktops to mobile phones. The theme includes pre-designed block patterns tailored for SaaS businesses, making it easy to create engaging and informative pages. Whether you're looking to highlight features, pricing plans, or customer testimonials, this elegant SaaS theme has got you covered. The theme is optimized for speed, SEO-friendly and also includes a toggle button to switch between light and dark mode, enhancing user experience based on their preferences.
 
 == Copyright ==
 
