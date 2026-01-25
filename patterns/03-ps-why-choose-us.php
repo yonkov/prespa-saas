@@ -6,7 +6,7 @@
 */
 ?>
 
-<!-- wp:columns {"className":"prespa-saas-why-choose-us p-animation-text-moveUp","style":{"spacing":{"blockGap":{"top":"0","left":"60px"},"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|small"}}}} -->
+<!-- wp:columns {"metadata":{"categories":["prespa-saas"],"patternName":"prespa-saas/why-choose-us","name":"Why Choose Us"},"className":"prespa-saas-why-choose-us p-animation-text-moveUp","style":{"spacing":{"blockGap":{"top":"0","left":"60px"},"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|small"}}}} -->
 <div class="wp-block-columns prespa-saas-why-choose-us p-animation-text-moveUp" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:column {"width":"30%","style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
 <div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"position":{"type":"sticky","top":"0px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -16,17 +16,17 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Why choose us</p>
+<p><?php esc_html_e( 'Why choose us', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:heading {"fontSize":"large"} -->
-<h2 class="wp-block-heading has-large-font-size">How we are reshaping the Saas industry</h2>
+<h2 class="wp-block-heading has-large-font-size"><?php esc_html_e( 'How we are reshaping the Saas industry', 'prespa-saas' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"normal"} -->
-<p class="has-normal-font-size">We obsess over every detail of your saas, so your product can attract more leads and help you stand out from the crowd.</p>
+<p class="has-normal-font-size"><?php esc_html_e( 'We obsess over every detail of your saas, so your product can attract more leads and help you stand out from the crowd.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"blockGap":"0","margin":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"layout":{"type":"flex","verticalAlignment":"center"}} -->
@@ -44,11 +44,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>We are not a platform, we are not an application. We are the best of both.</strong> <strong>We are SaaS.</strong></p>
+<p><strong><?php esc_html_e( 'We are not a platform, we are not an application. We are the best of both.', 'prespa-saas' ); ?></strong> <strong><?php esc_html_e( 'We are SaaS.', 'prespa-saas' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"normal"} -->
-<p class="has-normal-font-size">We are at the crossroads of cutting-edge technology with human expertise excellence, we use modern AI tools to deliver unmatched data-driven solutions.</p>
+<p class="has-normal-font-size"><?php esc_html_e( 'We are at the crossroads of cutting-edge technology with human expertise excellence, we use modern AI tools to deliver unmatched data-driven solutions.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -58,11 +58,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>Typical Cost Reduction: Up to 30-50%.</strong></p>
+<p><strong><?php esc_html_e( 'Typical Cost Reduction: Up to 30-50%.', 'prespa-saas' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"normal"} -->
-<p class="has-normal-font-size">Save time and money with our unique hybrid model (combining human experience and aggregated data with the power of AI.</p>
+<p class="has-normal-font-size"><?php esc_html_e( 'Save time and money with our unique hybrid model (combining human experience and aggregated data with the power of AI.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -72,11 +72,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>We see solutions where others see obstacles</strong></p>
+<p><strong><?php esc_html_e( 'We see solutions where others see obstacles', 'prespa-saas' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"normal"} -->
-<p class="has-normal-font-size">We are here to help you with your journey and help your business grow.</p>
+<p class="has-normal-font-size"><?php esc_html_e( 'We are here to help you with your journey and help your business grow.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -86,11 +86,11 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>We strive for efficiency and productivity.</strong></p>
+<p><strong><?php esc_html_e( 'We strive for efficiency and productivity.', 'prespa-saas' ); ?></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"normal"} -->
-<p class="has-normal-font-size">Our Ai agents will aggregate and analyse large amounts of raw data and do all the heavy lifting for you, so you can take informed decisions.</p>
+<p class="has-normal-font-size"><?php esc_html_e( 'Our Ai agents will aggregate and analyse large amounts of raw data and do all the heavy lifting for you, so you can take informed decisions.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

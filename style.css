@@ -168,25 +168,11 @@
     }
 }
 
-.pricing-plans .wp-block-nasio-block-tabs .nasio-tabs-nav {
-    margin: auto;
-    width: fit-content;
-    gap: 1rem;
-}
-
-.pricing-plans .nasio-tab-nav-button {
-    border-radius: 29px;
-}
-
-.pricing-plans .nasio-tabs-nav .nasio-tab-nav-button {
-    flex: auto;
-}
-
-.pricing-plans .wp-block-column {
+.prespa-saas-pricing-plans .wp-block-column {
     position: relative;
 }
 
-.pricing-plans .badge-wrap {
+.prespa-saas-pricing-plans .badge-wrap {
     position: absolute;
     top: -1rem;
     left: 0;
@@ -195,11 +181,11 @@
     width: 100%;
 }
 
-.pricing-plans .nasio-tab-nav-button {
+.prespa-saas-pricing-plans .nasio-tab-nav-button {
     font-size: .875rem;
 }
 
-.pricing-plans .badge {
+.prespa-saas-pricing-plans .badge {
     color: #fff;
     padding: .5rem .75rem;
     border-radius: 12px;

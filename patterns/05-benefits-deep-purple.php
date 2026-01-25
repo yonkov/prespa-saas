@@ -16,23 +16,23 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-white-color has-text-color has-link-color">Benefits</p>
+<p class="has-white-color has-text-color has-link-color"><?php esc_html_e( 'Benefits', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"border":{"radius":{"topLeft":"1.25rem","topRight":"1.25rem","bottomLeft":"1.25rem","bottomRight":"1.25rem"}},"color":{"background":"#8a2fcc"},"spacing":{"blockGap":"6px","padding":{"right":"0.5rem","bottom":"0.13rem","left":"0.5rem","top":"0.13rem"}}},"layout":{"type":"flex","orientation":"horizontal"}} -->
 <div class="wp-block-group has-background" style="border-top-left-radius:1.25rem;border-top-right-radius:1.25rem;border-bottom-left-radius:1.25rem;border-bottom-right-radius:1.25rem;background-color:#8a2fcc;padding-top:0.13rem;padding-right:0.5rem;padding-bottom:0.13rem;padding-left:0.5rem"><!-- wp:paragraph {"align":"left","textColor":"white"} -->
-<p class="has-text-align-left has-white-color has-text-color">Up to 50% cost saving →</p>
+<p class="has-text-align-left has-white-color has-text-color"><?php esc_html_e( 'Up to 50% cost saving →', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontSize":"large"} -->
-<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color has-large-font-size">Why Businesses Choose Us</h2>
+<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color has-large-font-size"><?php esc_html_e( 'Why Businesses Choose Us', 'prespa-saas' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","className":"p-animation-text-moveUp","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-text-align-center p-animation-text-moveUp has-white-color has-text-color has-link-color">Building a reliable Saas application is not a one-off assignment. It requires grid and resilience.</p>
+<p class="has-text-align-center p-animation-text-moveUp has-white-color has-text-color has-link-color"><?php esc_html_e( 'Building a reliable Saas application is not a one-off assignment. It requires grid and resilience.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:columns {"verticalAlignment":null,"className":"p-animation-text-moveUp","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium","left":"var:preset|spacing|small","right":"var:preset|spacing|small"},"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"}}}} -->
@@ -42,11 +42,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small"}},"typography":{"letterSpacing":"-0.04em","lineHeight":1.1},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.04em;line-height:1.1">Research &amp; Analysis</h5>
+<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.04em;line-height:1.1"><?php esc_html_e( 'Research & Analysis', 'prespa-saas' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color">Deep dive into your data with advanced analytics tools. Uncover patterns, trends, and insights that drive informed business decisions and strategic planning.</p>
+<p class="has-text-align-center has-white-color has-text-color has-link-color"><?php esc_html_e( 'Deep dive into your data with advanced analytics tools. Uncover patterns, trends, and insights that drive informed business decisions and strategic planning.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -56,11 +56,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small"}},"typography":{"letterSpacing":"-0.03em","lineHeight":1.1},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1">Data-driven Analytics</h5>
+<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1"><?php esc_html_e( 'Data-driven Analytics', 'prespa-saas' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color">Transform raw data into actionable intelligence. Real-time dashboards and predictive analytics help you stay ahead of market trends and customer needs.</p>
+<p class="has-text-align-center has-white-color has-text-color has-link-color"><?php esc_html_e( 'Transform raw data into actionable intelligence. Real-time dashboards and predictive analytics help you stay ahead of market trends and customer needs.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -70,11 +70,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small"}},"typography":{"letterSpacing":"-0.03em","lineHeight":1.1},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1">AI Automation</h5>
+<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1"><?php esc_html_e( 'AI Automation', 'prespa-saas' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color">Intelligent automation that learns and adapts. Reduce manual work by up to 80% while improving accuracy and freeing your team for high-value tasks.</p>
+<p class="has-text-align-center has-white-color has-text-color has-link-color"><?php esc_html_e( 'Intelligent automation that learns and adapts. Reduce manual work by up to 80% while improving accuracy and freeing your team for high-value tasks.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -86,11 +86,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small"}},"typography":{"letterSpacing":"-0.03em","lineHeight":1.1},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1">Modern Workflows</h5>
+<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1"><?php esc_html_e( 'Modern Workflows', 'prespa-saas' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color">Streamline operations with cutting-edge workflow automation. Connect your tools, optimize processes, and eliminate bottlenecks across your organization.</p>
+<p class="has-text-align-center has-white-color has-text-color has-link-color"><?php esc_html_e( 'Streamline operations with cutting-edge workflow automation. Connect your tools, optimize processes, and eliminate bottlenecks across your organization.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -100,11 +100,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small"}},"typography":{"letterSpacing":"-0.04em","lineHeight":1.1},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.04em;line-height:1.1">Advanced Reporting</h5>
+<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.04em;line-height:1.1"><?php esc_html_e( 'Advanced Reporting', 'prespa-saas' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color">Generate comprehensive reports in seconds. Customizable templates, automated scheduling, and interactive visualizations for every stakeholder.</p>
+<p class="has-text-align-center has-white-color has-text-color has-link-color"><?php esc_html_e( 'Generate comprehensive reports in seconds. Customizable templates, automated scheduling, and interactive visualizations for every stakeholder.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -114,11 +114,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading","style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small"}},"typography":{"letterSpacing":"-0.03em","lineHeight":1.1},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1">Strategic Decisions</h5>
+<h5 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--xx-small);letter-spacing:-0.03em;line-height:1.1"><?php esc_html_e( 'Strategic Decisions', 'prespa-saas' ); ?></h5>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-<p class="has-text-align-center has-white-color has-text-color has-link-color">Make confident choices backed by data. AI-powered recommendations and advanced scenario modeling help you navigate complex business challenges.</p>
+<p class="has-text-align-center has-white-color has-text-color has-link-color"><?php esc_html_e( 'Make confident choices backed by data. AI-powered recommendations and advanced scenario modeling help you navigate complex business challenges.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

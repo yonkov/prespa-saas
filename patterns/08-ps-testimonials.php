@@ -14,17 +14,17 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Testimonials</p>
+<p><?php esc_html_e( 'Testimonials', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"large"} -->
-<h2 class="wp-block-heading has-text-align-center has-large-font-size" style="font-style:normal;font-weight:600">Still not convinced?</h2>
+<h2 class="wp-block-heading has-text-align-center has-large-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e( 'Still not convinced?', 'prespa-saas' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Hear what our clients had to say.</p>
+<p class="has-text-align-center"><?php esc_html_e( 'Hear what our clients had to say.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:nasio-block/content-slider {"arrowOffset":-48,"className":"dots-bottom-outside"} -->
@@ -36,11 +36,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"className":"wp-block-heading","style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"padding":{"top":"var:preset|spacing|40"}}}} -->
-<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600">Ivan T</h4>
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600"><?php esc_html_e( 'Ivan T', 'prespa-saas' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"0","bottom":"var:preset|spacing|30","left":"0"},"margin":{"top":"0","right":"0","left":"0","bottom":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0">Digital Marketing, XYZ</p>
+<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0"><?php esc_html_e( 'Digital Marketing, XYZ', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":726,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized"} -->
@@ -48,7 +48,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="line-height:1.5">I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!</p>
+<p class="has-text-align-center has-small-font-size" style="line-height:1.5"><?php esc_html_e( 'I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover --></div></div>
@@ -62,11 +62,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"className":"wp-block-heading","style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"padding":{"top":"var:preset|spacing|40"}}}} -->
-<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600">Maria R</h4>
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600"><?php esc_html_e( 'Maria R', 'prespa-saas' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"0","bottom":"var:preset|spacing|30","left":"0"},"margin":{"top":"0","right":"0","left":"0","bottom":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0">Digital Marketing, XYZ</p>
+<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0"><?php esc_html_e( 'Digital Marketing, XYZ', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":726,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized"} -->
@@ -74,7 +74,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="line-height:1.5">Beautiful themes! After some testing I found a little bug and contacted the development team. Only after a few hours they released an update with the fixed theme. Highly qualified support!</p>
+<p class="has-text-align-center has-small-font-size" style="line-height:1.5"><?php esc_html_e( 'Beautiful themes! After some testing I found a little bug and contacted the development team. Only after a few hours they released an update with the fixed theme. Highly qualified support!', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover --></div></div>
@@ -88,11 +88,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"className":"wp-block-heading","style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"padding":{"top":"var:preset|spacing|40"}}}} -->
-<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600">Stefan M</h4>
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600"><?php esc_html_e( 'Stefan M', 'prespa-saas' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"0","bottom":"var:preset|spacing|30","left":"0"},"margin":{"top":"0","right":"0","left":"0","bottom":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0">Digital Marketing, XYZ</p>
+<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0"><?php esc_html_e( 'Digital Marketing, XYZ', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":726,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized"} -->
@@ -100,7 +100,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="line-height:1.5">A masterpiece of a theme. It is one of the fastest themes I have tried – with just a few tweaks I scored more than 80% on Google Page Speed Insights! I also really liked the header slider feature.</p>
+<p class="has-text-align-center has-small-font-size" style="line-height:1.5"><?php esc_html_e( 'A masterpiece of a theme. It is one of the fastest themes I have tried – with just a few tweaks I scored more than 80% on Google Page Speed Insights! I also really liked the header slider feature.', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover --></div></div>
@@ -114,11 +114,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"className":"wp-block-heading","style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"padding":{"top":"var:preset|spacing|40"}}}} -->
-<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600">John Wilson</h4>
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600"><?php esc_html_e( 'John Wilson', 'prespa-saas' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"0","bottom":"var:preset|spacing|30","left":"0"},"margin":{"top":"0","right":"0","left":"0","bottom":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0">Head of Sales, XYZ</p>
+<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0"><?php esc_html_e( 'Head of Sales, XYZ', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":726,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized"} -->
@@ -126,7 +126,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="line-height:1.5">I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!</p>
+<p class="has-text-align-center has-small-font-size" style="line-height:1.5"><?php esc_html_e( 'I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover --></div></div>
@@ -140,11 +140,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"className":"wp-block-heading","style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"padding":{"top":"var:preset|spacing|40"}}}} -->
-<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600">Andreaa Mils</h4>
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600"><?php esc_html_e( 'Andreaa Mils', 'prespa-saas' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"0","bottom":"var:preset|spacing|30","left":"0"},"margin":{"top":"0","right":"0","left":"0","bottom":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0">Content Writer, XYZ</p>
+<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0"><?php esc_html_e( 'Content Writer, XYZ', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":726,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized"} -->
@@ -152,7 +152,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="line-height:1.5">I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!</p>
+<p class="has-text-align-center has-small-font-size" style="line-height:1.5"><?php esc_html_e( 'I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover --></div></div>
@@ -166,11 +166,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":4,"className":"wp-block-heading","style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"padding":{"top":"var:preset|spacing|40"}}}} -->
-<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600">Ivan T</h4>
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--40);font-style:normal;font-weight:600"><?php esc_html_e( 'Ivan T', 'prespa-saas' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"0","bottom":"var:preset|spacing|30","left":"0"},"margin":{"top":"0","right":"0","left":"0","bottom":"0"}}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0">TikTok influencer, XYZ</p>
+<p class="has-text-align-center has-small-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;padding-top:var(--wp--preset--spacing--30);padding-right:0;padding-bottom:var(--wp--preset--spacing--30);padding-left:0"><?php esc_html_e( 'TikTok influencer, XYZ', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":726,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-resized"} -->
@@ -178,7 +178,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.5"}},"fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size" style="line-height:1.5">I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!</p>
+<p class="has-text-align-center has-small-font-size" style="line-height:1.5"><?php esc_html_e( 'I tried many different themes and all of them had at least one thing I hated and I thought I would have to teach myself how to write a theme… but I finally found this one and I am so happy!', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div></div>
 <!-- /wp:cover --></div></div>
