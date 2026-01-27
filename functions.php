@@ -69,7 +69,7 @@ function prespa_customizer_values( $value ) {
 		'headings_text_color'      => '#404040',
 		'link_headings_text_color' => '#404040',
 		'content_layout'           => 'seperate_containers',
-		'header_button_text'       => __( 'Contact', 'prespa' ),
+		'header_button_text'       => __( 'Contact', 'prespa-saas' ),
 		'has_secondary_menu'       => true,
 		'header-menu-position'     => 'static',
 		'woo_btn_bgr_color'        => '',

@@ -6,8 +6,8 @@
 */
 ?>
  
-<!-- wp:group {"className":"prespa-saas-hero-section p-animation-text-moveUp","style":{"spacing":{"blockGap":"0rem"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group prespa-saas-hero-section p-animation-text-moveUp"><!-- wp:columns {"className":"hero-top-icons"} -->
+<!-- wp:group {"className":"prespa-saas-hero-section header-pattern p-animation-text-moveUp","style":{"spacing":{"blockGap":"0rem"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group prespa-saas-hero-section header-pattern p-animation-text-moveUp"><!-- wp:columns {"className":"hero-top-icons"} -->
 <div class="wp-block-columns hero-top-icons"><!-- wp:column {"width":""} -->
 <div class="wp-block-column"><!-- wp:image {"width":"80px","sizeSlug":"full","linkDestination":"none","className":"icon icon-top-left"} -->
 <figure class="wp-block-image size-full is-resized icon icon-top-left"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/img/ps-patterns/TrendingIcon.png" alt="" style="width:80px"/></figure>
