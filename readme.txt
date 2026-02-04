@@ -28,6 +28,9 @@ GNU General Public License for more details.
 
 == Changelog ==
 
+= 1.0.1 - February 2026 =
+* Update theme screenshot, refine pattern translations and update readme.txt credits
+
 = 1.0.0 - January 2026 =
 * Initial release
 
@@ -41,4 +44,12 @@ SVG Icons by Atanas Yonkov https://yonkov.github.io/, Copyright (c) 2026 - prese
 Open Sans Google font by Steve Mateson https://fonts.google.com/specimen/Open+Sans/, License [SIL Open Font License](https://opensource.org/license/openfont-html/)
 Montserrat Google font by Julieta Ulanovsky https://fonts.google.com/specimen/Montserrat/, License [SIL Open Font License](https://opensource.org/license/openfont-html/)
 
-All images have been created by Atanas Yonkov https://yonkov.github.io, License [CC-BY](https://creativecommons.org/licenses/by/4.0/)
+Block Pattern testimonial first photo by PxHere https://pxhere.com/en/photo/6255684, License [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Block Pattern testimonial second photo by PxHere https://pxhere.com/en/photo/1046502, License [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Block Pattern testimonial third photo by PxHere https://pxhere.com/en/photo/943372, License [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Block Pattern testimonial fourth photo by PxHere https://pxhere.com/en/photo/451655, License [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Block Pattern testimonial fifth photo by PxHere https://pxhere.com/en/photo/1674976, License [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Block Pattern testimonial sixth photo by PxHere https://pxhere.com/en/photo/866398, License [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+Block Pattern Hero image, why choose us image and featured solutions image by Atanas Yonkov https://yonkov.github.io, License [CC-BY](https://creativecommons.org/licenses/by/4.0/)

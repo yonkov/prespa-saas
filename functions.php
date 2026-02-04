@@ -78,3 +78,46 @@ function prespa_customizer_values( $value ) {
 	// Return the value from the theme mod, or fallback to the default
 	return get_theme_mod( $value, $defaults[ $value ] );
 }
+
+function prespa_starter_content_setup() {
+	$default_page_content = '
+	<!-- wp:pattern {"slug":"prespa-saas/hero-image"} /-->
+	<!-- wp:pattern {"slug":"prespa-saas/partners"} /-->
+	<!-- wp:pattern {"slug":"prespa-saas/why-choose-us"} /-->
+	<!-- wp:pattern {"slug":"prespa-saas/featured-solutions"} /-->
+	<!-- wp:pattern {"slug":"prespa-saas/benefits-deep-purple"} /-->
+	<!-- wp:pattern {"slug":"prespa-saas/pricing-plans"} /-->
+	<!-- wp:pattern {"slug":"prespa-saas/banner"} /-->
+	';
+
+	add_theme_support(
+		'starter-content',
+		array(
+			'posts'     => array(
+				'home' => array(
+					'post_type'    => 'page',
+					'post_title'   => _x( 'Home', 'Theme starter content', 'prespa-travel' ),
+					'post_content' => $default_page_content,
+				),
+				'blog',
+			),
+			'options'   => array(
+				'show_on_front'  => 'page',
+				'page_on_front'  => '{{home}}',
+				'page_for_posts' => '{{blog}}',
+			),
+			'nav_menus' => array(
+				'menu-1' => array(
+					'name'  => __( 'Primary', 'prespa-travel' ),
+					'items' => array(
+						'page_home',
+						'page_blog',
+					),
+				),
+			),
+		)
+	);
+}
+
+require get_stylesheet_directory() . '/tgm/plugin-activation.php';
+require get_stylesheet_directory() . '/tgm/recommended-plugins.php';

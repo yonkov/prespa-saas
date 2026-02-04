@@ -37,7 +37,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","className":"wp-block-heading has-primary-color","style":{"typography":{"letterSpacing":"-3px"},"spacing":{"margin":{"top":"var:preset|spacing|medium"}}}} -->
-<h2 class="wp-block-heading has-text-align-center has-primary-color" style="margin-top:var(--wp--preset--spacing--medium);letter-spacing:-3px">$59.99</h2>
+<h2 class="wp-block-heading has-text-align-center has-primary-color" style="margin-top:var(--wp--preset--spacing--medium);letter-spacing:-3px"><?php esc_html_e( '$59.99', 'prespa-saas' )?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading has-highlight-color","fontSize":"small"} -->
@@ -85,7 +85,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","className":"wp-block-heading has-primary-color","style":{"typography":{"letterSpacing":"-3px"},"spacing":{"margin":{"top":"var:preset|spacing|medium"}}}} -->
-<h2 class="wp-block-heading has-text-align-center has-primary-color" style="margin-top:var(--wp--preset--spacing--medium);letter-spacing:-3px">$99.99</h2>
+<h2 class="wp-block-heading has-text-align-center has-primary-color" style="margin-top:var(--wp--preset--spacing--medium);letter-spacing:-3px"><?php esc_html_e( '$99.99', 'prespa-saas' )?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading has-highlight-color","fontSize":"small"} -->
@@ -129,7 +129,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","className":"wp-block-heading has-primary-color","style":{"typography":{"letterSpacing":"-3px"},"spacing":{"margin":{"top":"var:preset|spacing|medium"}}}} -->
-<h2 class="wp-block-heading has-text-align-center has-primary-color" style="margin-top:var(--wp--preset--spacing--medium);letter-spacing:-3px">$199.99</h2>
+<h2 class="wp-block-heading has-text-align-center has-primary-color" style="margin-top:var(--wp--preset--spacing--medium);letter-spacing:-3px"><?php esc_html_e( '$199.99', 'prespa-saas' )?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","level":5,"className":"wp-block-heading has-highlight-color","fontSize":"small"} -->

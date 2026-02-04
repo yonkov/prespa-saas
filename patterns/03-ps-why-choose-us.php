@@ -31,7 +31,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"blockGap":"0","margin":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"layout":{"type":"flex","verticalAlignment":"center"}} -->
 <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--medium);margin-bottom:var(--wp--preset--spacing--medium)"><!-- wp:button {"className":"p-btn-animation-hover-arrow","style":{"spacing":{"padding":{"left":"var:preset|spacing|medium","right":"var:preset|spacing|medium"}},"border":{"radius":"30px"},"color":{"background":"#3d81f1"}}} -->
-<div class="wp-block-button p-btn-animation-hover-arrow"><a class="wp-block-button__link has-background wp-element-button" href="/#" style="border-radius:30px;background-color:#3d81f1;padding-right:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)">Learn more</a></div>
+<div class="wp-block-button p-btn-animation-hover-arrow"><a class="wp-block-button__link has-background wp-element-button" href="/#" style="border-radius:30px;background-color:#3d81f1;padding-right:var(--wp--preset--spacing--medium);padding-left:var(--wp--preset--spacing--medium)"><?php esc_html_e( 'Learn more', 'prespa-saas' )?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>
