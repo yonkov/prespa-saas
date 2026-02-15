@@ -96,7 +96,7 @@ function prespa_starter_content_setup() {
 			'posts'     => array(
 				'home' => array(
 					'post_type'    => 'page',
-					'post_title'   => _x( 'Home', 'Theme starter content', 'prespa-travel' ),
+					'post_title'   => _x( 'Home', 'Theme starter content', 'prespa-saas' ),
 					'post_content' => $default_page_content,
 				),
 				'blog',
@@ -108,7 +108,7 @@ function prespa_starter_content_setup() {
 			),
 			'nav_menus' => array(
 				'menu-1' => array(
-					'name'  => __( 'Primary', 'prespa-travel' ),
+					'name'  => __( 'Primary', 'prespa-saas' ),
 					'items' => array(
 						'page_home',
 						'page_blog',
