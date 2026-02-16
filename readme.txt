@@ -1,7 +1,7 @@
 === Prespa SaaS ===
 Contributors: nravota12
 Tags: blog, portfolio, e-commerce, one-column, two-columns, three-columns, four-columns, grid-layout, right-sidebar, left-sidebar, block-patterns, wide-blocks, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
-Requires at least: 6.7
+Requires at least: 6.1
 Tested up to: 6.9
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -9,7 +9,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Prespa SaaS serves as a child theme of Prespa, inheriting all the features of Prespa. It is designed for SaaS (Software as a Service) and startup websites. The theme includes specialized block patterns for pricing tables, feature lists, services, testimonials and others. It supports responsive layouts and includes a native toggle for switching between light and dark mode. Theme demo: https://prespa-saas-demo.nasiothemes.com/
+Prespa SaaS serves as a child theme of Prespa, inheriting all the features of Prespa. It is specifically designed for SaaS (Software as a Service) businesses, digital agency, startup and ai automation websites, providing a modern and professional look to effectively showcase products and services. The theme is made with the distinct purpose to convert site visitors into customers. It includes specialized block patterns for pricing tables, feature lists, services, testimonials and others. The theme supports responsive layouts and includes a native toggle that allows visitors to switch between light and dark mode. Theme demo: https://prespa-saas-demo.nasiothemes.com/
 
 == Copyright ==
 
@@ -27,6 +27,12 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 == Changelog ==
+
+= 1.0.7 - February 2026 =
+* Fix category box border radius and update screenshot
+
+= 1.0.6 - February 2026 =
+* Update theme docs
 
 = 1.0.5 - February 2026 =
 * Fix test domain

@@ -1,14 +1,14 @@
 /*
  Theme Name:        Prespa SaaS
  Theme URI:         https://nasiothemes.com/themes/prespa/
- Description:       Prespa SaaS serves as a child theme of Prespa, inheriting all the features of Prespa. It is designed for SaaS (Software as a Service) and startup websites. The theme includes specialized block patterns for pricing tables, feature lists, services, testimonials and others. It supports responsive layouts and includes a native toggle for switching between light and dark mode. Theme demo: https://prespa-saas-demo.nasiothemes.com/
+ Description:       Prespa SaaS serves as a child theme of Prespa, inheriting all the features of Prespa. It is specifically designed for SaaS (Software as a Service) businesses, digital agency, startup and ai automation websites, providing a modern and professional look to effectively showcase products and services. The theme is made with the distinct purpose to convert site visitors into customers. It includes specialized block patterns for pricing tables, feature lists, services, testimonials and others. The theme supports responsive layouts and includes a native toggle that allows visitors to switch between light and dark mode. Theme demo: https://prespa-saas-demo.nasiothemes.com/
  Author:            Atanas Yonkov
  Author URI:        http://nasiothemes.com
  Template:          prespa
- Requires at least: 6.7
+ Requires at least: 6.1
  Tested up to:      6.9
  Requires PHP:      5.6
- Version:           1.0.5
+ Version:           1.0.7
  License:           GNU General Public License v2 or later
  License URI:       http://www.gnu.org/licenses/gpl-2.0.html
  Text Domain:       prespa-saas
@@ -203,7 +203,7 @@
 	border-radius: 1rem;
 }
 
-.cat-links a {
+.top-meta .cat-links a {
 	border: 1px solid #e3e3e3;
 	border-radius: .5rem;
 }

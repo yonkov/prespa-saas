@@ -34,14 +34,14 @@
 
 <!-- wp:group {"style":{"border":{"radius":{"topLeft":"1.25rem","topRight":"1.25rem","bottomLeft":"1.25rem","bottomRight":"1.25rem"}},"spacing":{"blockGap":"0px","padding":{"right":"0.5rem","bottom":"0.13rem","left":"0.5rem","top":"0.13rem"}}},"backgroundColor":"blue-violet","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-blue-violet-background-color has-background" style="border-top-left-radius:1.25rem;border-top-right-radius:1.25rem;border-bottom-left-radius:1.25rem;border-bottom-right-radius:1.25rem;padding-top:0.13rem;padding-right:0.5rem;padding-bottom:0.13rem;padding-left:0.5rem"><!-- wp:paragraph {"align":"left","textColor":"white"} -->
-<p class="has-text-align-left has-white-color has-text-color"><?php esc_html_e( 'Learn more →', 'prespa-saas' ); ?></p>
+<p class="has-text-align-left has-white-color has-text-color"><?php esc_html_e( 'Join waitlist →', 'prespa-saas' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"lineHeight":"1.25"}},"fontSize":"xx-large"} -->
-<h1 class="wp-block-heading has-text-align-center has-xx-large-font-size" style="line-height:1.25"><?php echo esc_html__( 'Advanced Data Tools', 'prespa-saas' ); ?><br><?php echo esc_html__( 'for your', 'prespa-saas' ); ?> <span class="prespa-saas-animated-text"><?php echo esc_html__( 'SaaS Business', 'prespa-saas' ); ?></span></h1>
+<h1 class="wp-block-heading has-text-align-center has-xx-large-font-size" style="line-height:1.25"><?php echo esc_html__( 'All-in-One Template', 'prespa-saas' ); ?><br><?php echo esc_html__( 'for your', 'prespa-saas' ); ?> <span class="prespa-saas-animated-text"><?php echo esc_html__( 'SaaS Business', 'prespa-saas' ); ?></span></h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
