@@ -5,6 +5,8 @@
  * @since 1.0.0
  */
 
+define( 'PRESPA_THEME_LOGO_URL', get_stylesheet_directory_uri() . '/admin/img/theme-logo.jpg' );
+
 /**
  * Register child theme's styles
  */
